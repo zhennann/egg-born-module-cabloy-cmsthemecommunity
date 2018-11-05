@@ -8,6 +8,19 @@ module.exports = appInfo => {
       title: 'Cabloy',
       subTitle: 'The Ultimate Javascript Full Stack Business Development Platform, based on EggJS & VueJS',
     },
+    host: {
+      url: 'https://cabloy.org',
+      rootPath: '',
+    },
+    plugins: {
+      'cms-plugintrack': {
+        track: {
+          qq: '',
+          baidu: '',
+          google: 'UA-121407783-1',
+        },
+      },
+    },
     _theme: {
       name: 'cabloy-cmsthemecommunity',
       url: 'https://github.com/zhennann/egg-born-module-cabloy-cmsthemecommunity',

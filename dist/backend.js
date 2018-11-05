@@ -133,10 +133,6 @@ module.exports = appInfo => {
       title: 'Cabloy',
       subTitle: 'The Ultimate Javascript Full Stack Business Development Platform, based on EggJS & VueJS',
     },
-    host: {
-      url: 'https://cabloy.org',
-      rootPath: '',
-    },
     plugins: {
       'cms-plugintrack': {
         track: {

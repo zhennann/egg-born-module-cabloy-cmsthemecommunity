@@ -12,7 +12,7 @@ module.exports = appInfo => {
       'cms-plugintrack': {
         track: {
           qq: '',
-          baidu: '',
+          baidu: 'ed79c83c05ae0d9b5355c4187debd312',
           google: 'UA-121407783-1',
         },
       },
